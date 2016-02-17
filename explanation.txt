@@ -1,0 +1,4 @@
+The basic thing is that I used to store and retrieve elements was a vector element.
+It has native functions which will return the size and the character elements.
+
+*LMS is not working. Uploaded on github.
